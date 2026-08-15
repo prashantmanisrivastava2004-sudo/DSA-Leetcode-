@@ -40,7 +40,7 @@ LeetCode-DSA/
 └── README.md
 ```
 
-Each problem contains its corresponding solution.
+Each problem contains its corresponding solution and Problem Description as README file .
 
 
 
