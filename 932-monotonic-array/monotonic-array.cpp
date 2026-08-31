@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool increasing(vector<int>&nums){
-        bool found = 0;
+      
          for(int i=0; i<nums.size()-1; i++){
            if(nums[i] > nums[i+1]){
             return false;
@@ -11,7 +11,7 @@ public:
     }
 
      bool decreasing(vector<int>&nums){
-        bool found = 0;
+        
          for(int i=0; i<nums.size()-1; i++){
            if(nums[i] < nums[i+1]){
              return false;
