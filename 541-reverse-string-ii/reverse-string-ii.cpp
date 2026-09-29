@@ -1,7 +1,7 @@
 class Solution {
 public:
     void reverse(string &s, int i, int j){
-        while(i<=j){
+        while(i<j){
             swap(s[i++], s[j--]);
         }
     }
