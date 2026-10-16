@@ -80,6 +80,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,8 +89,10 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 <!---LeetCode Topics End-->
