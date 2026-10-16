@@ -88,11 +88,21 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0402-remove-k-digits/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0402-remove-k-digits/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/2104-sum-of-subarray-ranges/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0402-remove-k-digits/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0402-remove-k-digits/) | Medium |
 <!---LeetCode Topics End-->
