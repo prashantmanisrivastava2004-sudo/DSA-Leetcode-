@@ -104,8 +104,13 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0402-remove-k-digits/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0402-remove-k-digits/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
