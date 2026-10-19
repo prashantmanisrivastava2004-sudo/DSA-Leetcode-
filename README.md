@@ -79,6 +79,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0907-sum-of-subarray-minimums](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -90,6 +91,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0402-remove-k-digits](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0402-remove-k-digits/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -97,6 +99,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0402-remove-k-digits](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0402-remove-k-digits/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -133,5 +136,6 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
