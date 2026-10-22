@@ -111,6 +111,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0402-remove-k-digits](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0402-remove-k-digits/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 ## Greedy
@@ -151,19 +152,27 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | ------- | ------- |
 | [0100-same-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 <!---LeetCode Topics End-->
