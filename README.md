@@ -154,6 +154,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | [0104-maximum-depth-of-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0404-sum-of-left-leaves](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,6 +162,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | [0104-maximum-depth-of-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0404-sum-of-left-leaves](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,6 +170,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | [0104-maximum-depth-of-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0404-sum-of-left-leaves](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +178,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | [0104-maximum-depth-of-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0404-sum-of-left-leaves](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
