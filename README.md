@@ -210,4 +210,9 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0190-reverse-bits](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0190-reverse-bits/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0190-reverse-bits](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0190-reverse-bits/) | Easy |
 <!---LeetCode Topics End-->
