@@ -112,6 +112,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0257-binary-tree-paths/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0402-remove-k-digits](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0402-remove-k-digits/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
@@ -158,6 +159,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0257-binary-tree-paths](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0257-binary-tree-paths/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -172,6 +174,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | [0100-same-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0257-binary-tree-paths](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0257-binary-tree-paths/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0513-find-bottom-left-tree-value/) | Medium |
@@ -197,6 +200,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0257-binary-tree-paths](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0257-binary-tree-paths/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -232,4 +236,8 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | [0450-delete-node-in-a-bst](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0257-binary-tree-paths/) | Easy |
 <!---LeetCode Topics End-->
