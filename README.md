@@ -79,6 +79,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0085-maximal-rectangle/) | Hard |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -149,6 +150,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0085-maximal-rectangle](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0085-maximal-rectangle/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
@@ -226,6 +228,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
