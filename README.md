@@ -86,6 +86,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0213-house-robber-ii](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0213-house-robber-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0463-island-perimeter](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0463-island-perimeter/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/2104-sum-of-subarray-ranges/) | Medium |
@@ -156,6 +157,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0085-maximal-rectangle](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0085-maximal-rectangle/) | Hard |
+| [0463-island-perimeter](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0463-island-perimeter/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,6 +192,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | [0257-binary-tree-paths](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0257-binary-tree-paths/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0463-island-perimeter](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0463-island-perimeter/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0563-binary-tree-tilt](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0606-construct-string-from-binary-tree/) | Medium |
@@ -207,6 +210,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | [0226-invert-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0463-island-perimeter](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0463-island-perimeter/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
