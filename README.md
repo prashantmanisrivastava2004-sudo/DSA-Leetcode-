@@ -88,6 +88,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | [0239-sliding-window-maximum](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0463-island-perimeter](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0463-island-perimeter/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Dynamic Programming
@@ -269,6 +270,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | [0669-trim-a-binary-search-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -277,4 +279,12 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0563-binary-tree-tilt](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0563-binary-tree-tilt/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 <!---LeetCode Topics End-->
