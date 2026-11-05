@@ -103,6 +103,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | [0084-largest-rectangle-in-histogram](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0085-maximal-rectangle/) | Hard |
 | [0402-remove-k-digits](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0402-remove-k-digits/) | Medium |
+| [0897-increasing-order-search-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/2104-sum-of-subarray-ranges/) | Medium |
@@ -180,6 +181,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | [0637-average-of-levels-in-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0669-trim-a-binary-search-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0897-increasing-order-search-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Depth-First Search
@@ -199,6 +201,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | [0606-construct-string-from-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0669-trim-a-binary-search-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0669-trim-a-binary-search-tree/) | Medium |
+| [0897-increasing-order-search-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Breadth-First Search
@@ -236,6 +239,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | [0637-average-of-levels-in-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0669-trim-a-binary-search-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0897-increasing-order-search-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Design
@@ -269,6 +273,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | [0450-delete-node-in-a-bst](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0897-increasing-order-search-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Backtracking
