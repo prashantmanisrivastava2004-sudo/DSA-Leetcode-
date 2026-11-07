@@ -177,6 +177,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | [0404-sum-of-left-leaves](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -198,6 +199,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | [0404-sum-of-left-leaves](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0463-island-perimeter](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0463-island-perimeter/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -236,6 +238,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | [0404-sum-of-left-leaves](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -286,6 +289,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0563-binary-tree-tilt/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
