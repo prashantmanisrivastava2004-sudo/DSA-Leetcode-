@@ -255,6 +255,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0279-perfect-squares/) | Medium |
+| [2235-add-two-integers](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/2235-add-two-integers/) | Easy |
 | [2409-count-days-spent-together](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/2409-count-days-spent-together/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
