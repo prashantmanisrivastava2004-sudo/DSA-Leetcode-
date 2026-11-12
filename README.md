@@ -95,6 +95,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
