@@ -101,6 +101,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0085-maximal-rectangle](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0085-maximal-rectangle/) | Hard |
+| [0124-binary-tree-maximum-path-sum](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0213-house-robber-ii](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0213-house-robber-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0279-perfect-squares/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -178,6 +179,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0257-binary-tree-paths/) | Easy |
@@ -200,6 +202,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | [0098-validate-binary-search-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0257-binary-tree-paths/) | Easy |
@@ -239,6 +242,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0257-binary-tree-paths/) | Easy |
@@ -301,6 +305,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0563-binary-tree-tilt/) | Easy |
 ## Two Pointers
