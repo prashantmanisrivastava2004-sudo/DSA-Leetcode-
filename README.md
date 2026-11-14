@@ -96,6 +96,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | [2706-buy-two-chocolates](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -151,6 +152,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0239-sliding-window-maximum/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -330,4 +332,8 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 <!---LeetCode Topics End-->
