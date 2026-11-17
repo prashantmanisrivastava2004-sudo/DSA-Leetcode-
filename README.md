@@ -79,6 +79,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0014-longest-common-prefix/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -130,6 +131,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0014-longest-common-prefix](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0014-longest-common-prefix/) | Easy |
 | [0257-binary-tree-paths](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0257-binary-tree-paths/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0402-remove-k-digits](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0402-remove-k-digits/) | Medium |
@@ -339,4 +341,8 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
