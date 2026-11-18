@@ -272,6 +272,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0009-palindrome-number/) | Easy |
 | [0279-perfect-squares](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0279-perfect-squares/) | Medium |
 | [2235-add-two-integers](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/2235-add-two-integers/) | Easy |
 | [2409-count-days-spent-together](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/2409-count-days-spent-together/) | Easy |
