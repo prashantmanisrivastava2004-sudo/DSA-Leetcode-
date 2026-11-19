@@ -130,6 +130,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0014-longest-common-prefix/) | Easy |
 | [0257-binary-tree-paths](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0257-binary-tree-paths/) | Easy |
@@ -154,6 +155,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [3364-minimum-positive-sum-subarray](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Heap (Priority Queue)
@@ -279,6 +281,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
