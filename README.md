@@ -139,6 +139,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | [0606-construct-string-from-binary-tree](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/2409-count-days-spent-together/) | Easy |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
