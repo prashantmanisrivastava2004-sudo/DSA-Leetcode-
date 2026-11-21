@@ -298,6 +298,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0190-reverse-bits/) | Easy |
+| [0401-binary-watch](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0401-binary-watch/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -314,6 +315,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0257-binary-tree-paths](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0257-binary-tree-paths/) | Easy |
+| [0401-binary-watch](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0401-binary-watch/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
