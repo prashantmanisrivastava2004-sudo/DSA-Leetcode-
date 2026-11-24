@@ -99,6 +99,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | [2956-find-common-elements-between-two-arrays](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,6 +162,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | [0003-longest-substring-without-repeating-characters](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [3364-minimum-positive-sum-subarray](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -281,6 +283,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | [0279-perfect-squares](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0279-perfect-squares/) | Medium |
 | [2235-add-two-integers](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/2235-add-two-integers/) | Easy |
 | [2409-count-days-spent-together](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/2409-count-days-spent-together/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -355,4 +358,12 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0014-longest-common-prefix/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 <!---LeetCode Topics End-->
