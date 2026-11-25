@@ -88,6 +88,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0213-house-robber-ii](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0213-house-robber-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0416-partition-equal-subset-sum](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0463-island-perimeter](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0463-island-perimeter/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -108,6 +109,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | [0124-binary-tree-maximum-path-sum](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0213-house-robber-ii](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0213-house-robber-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0279-perfect-squares/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -342,6 +344,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0279-perfect-squares/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0416-partition-equal-subset-sum/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -366,4 +369,8 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0416-partition-equal-subset-sum/) | Medium |
 <!---LeetCode Topics End-->
