@@ -90,6 +90,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | [0239-sliding-window-maximum](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0463-island-perimeter](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0463-island-perimeter/) | Easy |
+| [0717-1-bit-and-2-bit-characters](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1470-shuffle-the-array](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/1470-shuffle-the-array/) | Easy |
