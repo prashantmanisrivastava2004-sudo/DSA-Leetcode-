@@ -106,6 +106,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0070-climbing-stairs](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0070-climbing-stairs/) | Easy |
 | [0085-maximal-rectangle](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0085-maximal-rectangle/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0213-house-robber-ii](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0213-house-robber-ii/) | Medium |
@@ -284,6 +285,7 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0009-palindrome-number/) | Easy |
+| [0070-climbing-stairs](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0070-climbing-stairs/) | Easy |
 | [0279-perfect-squares](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0279-perfect-squares/) | Medium |
 | [2235-add-two-integers](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/2235-add-two-integers/) | Easy |
 | [2409-count-days-spent-together](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/2409-count-days-spent-together/) | Easy |
@@ -376,4 +378,8 @@ My goal is to consistently practice DSA, strengthen my problem-solving skills, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/prashantmanisrivastava2004-sudo/DSA-Leetcode-/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
